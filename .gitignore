@@ -10,3 +10,9 @@ data_*/
 # MacOS stuff
 .DS_STORE
 
+.idea
+
+Common/bin/
+Common/obj/
+
+MiniJam122.sln.DotSettings.user
